@@ -1,0 +1,16 @@
+G:\dotnet\Console application\electricityBill - branching\bin\Debug\net5.0\electricityBill - branching.exe
+G:\dotnet\Console application\electricityBill - branching\bin\Debug\net5.0\electricityBill - branching.deps.json
+G:\dotnet\Console application\electricityBill - branching\bin\Debug\net5.0\electricityBill - branching.runtimeconfig.json
+G:\dotnet\Console application\electricityBill - branching\bin\Debug\net5.0\electricityBill - branching.runtimeconfig.dev.json
+G:\dotnet\Console application\electricityBill - branching\bin\Debug\net5.0\electricityBill - branching.dll
+G:\dotnet\Console application\electricityBill - branching\bin\Debug\net5.0\ref\electricityBill - branching.dll
+G:\dotnet\Console application\electricityBill - branching\bin\Debug\net5.0\electricityBill - branching.pdb
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\electricityBill - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\electricityBill - branching.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\electricityBill - branching.AssemblyInfoInputs.cache
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\electricityBill - branching.AssemblyInfo.cs
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\electricityBill - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\electricityBill - branching.dll
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\ref\electricityBill - branching.dll
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\electricityBill - branching.pdb
+G:\dotnet\Console application\electricityBill - branching\obj\Debug\net5.0\electricityBill - branching.genruntimeconfig.cache

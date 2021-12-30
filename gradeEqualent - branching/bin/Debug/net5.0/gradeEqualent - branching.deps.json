@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "gradeEqualent - branching/1.0.0": {
+        "runtime": {
+          "gradeEqualent - branching.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gradeEqualent - branching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\blow\source\repos\equals branching\equals branching\bin\Debug\equals branching.exe.config
+C:\Users\blow\source\repos\equals branching\equals branching\bin\Debug\equals branching.exe
+C:\Users\blow\source\repos\equals branching\equals branching\bin\Debug\equals branching.pdb
+C:\Users\blow\source\repos\equals branching\equals branching\obj\Debug\equals branching.csproj.AssemblyReference.cache
+C:\Users\blow\source\repos\equals branching\equals branching\obj\Debug\equals branching.csproj.CoreCompileInputs.cache
+C:\Users\blow\source\repos\equals branching\equals branching\obj\Debug\equals branching.exe
+C:\Users\blow\source\repos\equals branching\equals branching\obj\Debug\equals branching.pdb

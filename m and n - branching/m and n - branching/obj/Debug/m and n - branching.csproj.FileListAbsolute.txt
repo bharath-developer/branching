@@ -1,0 +1,7 @@
+G:\dotnet\Console application\m and n - branching\m and n - branching\bin\Debug\m and n - branching.exe.config
+G:\dotnet\Console application\m and n - branching\m and n - branching\bin\Debug\m and n - branching.exe
+G:\dotnet\Console application\m and n - branching\m and n - branching\bin\Debug\m and n - branching.pdb
+G:\dotnet\Console application\m and n - branching\m and n - branching\obj\Debug\m and n - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\m and n - branching\m and n - branching\obj\Debug\m and n - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\m and n - branching\m and n - branching\obj\Debug\m and n - branching.exe
+G:\dotnet\Console application\m and n - branching\m and n - branching\obj\Debug\m and n - branching.pdb

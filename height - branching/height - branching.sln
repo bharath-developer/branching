@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "height - branching", "height - branching\height - branching.csproj", "{67967E60-ADA3-4BC2-9C73-E4B1D3FAAB27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67967E60-ADA3-4BC2-9C73-E4B1D3FAAB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67967E60-ADA3-4BC2-9C73-E4B1D3FAAB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67967E60-ADA3-4BC2-9C73-E4B1D3FAAB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67967E60-ADA3-4BC2-9C73-E4B1D3FAAB27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D9F055-4A87-4490-92BD-F65ECDE75BC2}
+	EndGlobalSection
+EndGlobal

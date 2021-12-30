@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "even or odd - branching", "even or odd - branching\even or odd - branching.csproj", "{EABA2E6B-C608-4C9B-B43C-C367E1CA6EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABA2E6B-C608-4C9B-B43C-C367E1CA6EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABA2E6B-C608-4C9B-B43C-C367E1CA6EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABA2E6B-C608-4C9B-B43C-C367E1CA6EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABA2E6B-C608-4C9B-B43C-C367E1CA6EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797CF434-15BE-4CC2-9632-81FDCBB74239}
+	EndGlobalSection
+EndGlobal

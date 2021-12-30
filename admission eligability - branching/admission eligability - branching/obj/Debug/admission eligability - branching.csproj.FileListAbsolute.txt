@@ -1,0 +1,7 @@
+G:\dotnet\Console application\admission eligability - branching\admission eligability - branching\bin\Debug\admission eligability - branching.exe.config
+G:\dotnet\Console application\admission eligability - branching\admission eligability - branching\bin\Debug\admission eligability - branching.exe
+G:\dotnet\Console application\admission eligability - branching\admission eligability - branching\bin\Debug\admission eligability - branching.pdb
+G:\dotnet\Console application\admission eligability - branching\admission eligability - branching\obj\Debug\admission eligability - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\admission eligability - branching\admission eligability - branching\obj\Debug\admission eligability - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\admission eligability - branching\admission eligability - branching\obj\Debug\admission eligability - branching.exe
+G:\dotnet\Console application\admission eligability - branching\admission eligability - branching\obj\Debug\admission eligability - branching.pdb

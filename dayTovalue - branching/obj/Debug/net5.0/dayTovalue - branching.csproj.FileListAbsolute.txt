@@ -1,0 +1,16 @@
+G:\dotnet\Console application\dayTovalue - branching\bin\Debug\net5.0\dayTovalue - branching.exe
+G:\dotnet\Console application\dayTovalue - branching\bin\Debug\net5.0\dayTovalue - branching.deps.json
+G:\dotnet\Console application\dayTovalue - branching\bin\Debug\net5.0\dayTovalue - branching.runtimeconfig.json
+G:\dotnet\Console application\dayTovalue - branching\bin\Debug\net5.0\dayTovalue - branching.runtimeconfig.dev.json
+G:\dotnet\Console application\dayTovalue - branching\bin\Debug\net5.0\dayTovalue - branching.dll
+G:\dotnet\Console application\dayTovalue - branching\bin\Debug\net5.0\ref\dayTovalue - branching.dll
+G:\dotnet\Console application\dayTovalue - branching\bin\Debug\net5.0\dayTovalue - branching.pdb
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\dayTovalue - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\dayTovalue - branching.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\dayTovalue - branching.AssemblyInfoInputs.cache
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\dayTovalue - branching.AssemblyInfo.cs
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\dayTovalue - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\dayTovalue - branching.dll
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\ref\dayTovalue - branching.dll
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\dayTovalue - branching.pdb
+G:\dotnet\Console application\dayTovalue - branching\obj\Debug\net5.0\dayTovalue - branching.genruntimeconfig.cache

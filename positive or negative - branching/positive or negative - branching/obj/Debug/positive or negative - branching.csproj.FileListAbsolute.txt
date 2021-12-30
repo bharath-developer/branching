@@ -1,0 +1,6 @@
+G:\dotnet\Console application\positive or negative - branching\positive or negative - branching\bin\Debug\positive or negative - branching.exe.config
+G:\dotnet\Console application\positive or negative - branching\positive or negative - branching\bin\Debug\positive or negative - branching.exe
+G:\dotnet\Console application\positive or negative - branching\positive or negative - branching\bin\Debug\positive or negative - branching.pdb
+G:\dotnet\Console application\positive or negative - branching\positive or negative - branching\obj\Debug\positive or negative - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\positive or negative - branching\positive or negative - branching\obj\Debug\positive or negative - branching.exe
+G:\dotnet\Console application\positive or negative - branching\positive or negative - branching\obj\Debug\positive or negative - branching.pdb

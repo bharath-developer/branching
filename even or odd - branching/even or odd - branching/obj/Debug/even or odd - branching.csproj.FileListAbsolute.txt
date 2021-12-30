@@ -1,0 +1,7 @@
+G:\dotnet\Console application\even or odd - branching\even or odd - branching\bin\Debug\even or odd - branching.exe.config
+G:\dotnet\Console application\even or odd - branching\even or odd - branching\bin\Debug\even or odd - branching.exe
+G:\dotnet\Console application\even or odd - branching\even or odd - branching\bin\Debug\even or odd - branching.pdb
+G:\dotnet\Console application\even or odd - branching\even or odd - branching\obj\Debug\even or odd - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\even or odd - branching\even or odd - branching\obj\Debug\even or odd - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\even or odd - branching\even or odd - branching\obj\Debug\even or odd - branching.exe
+G:\dotnet\Console application\even or odd - branching\even or odd - branching\obj\Debug\even or odd - branching.pdb

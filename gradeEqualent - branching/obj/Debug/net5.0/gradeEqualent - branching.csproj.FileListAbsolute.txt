@@ -1,0 +1,16 @@
+G:\dotnet\Console application\gradeEqualent - branching\bin\Debug\net5.0\gradeEqualent - branching.exe
+G:\dotnet\Console application\gradeEqualent - branching\bin\Debug\net5.0\gradeEqualent - branching.deps.json
+G:\dotnet\Console application\gradeEqualent - branching\bin\Debug\net5.0\gradeEqualent - branching.runtimeconfig.json
+G:\dotnet\Console application\gradeEqualent - branching\bin\Debug\net5.0\gradeEqualent - branching.runtimeconfig.dev.json
+G:\dotnet\Console application\gradeEqualent - branching\bin\Debug\net5.0\gradeEqualent - branching.dll
+G:\dotnet\Console application\gradeEqualent - branching\bin\Debug\net5.0\ref\gradeEqualent - branching.dll
+G:\dotnet\Console application\gradeEqualent - branching\bin\Debug\net5.0\gradeEqualent - branching.pdb
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\gradeEqualent - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\gradeEqualent - branching.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\gradeEqualent - branching.AssemblyInfoInputs.cache
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\gradeEqualent - branching.AssemblyInfo.cs
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\gradeEqualent - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\gradeEqualent - branching.dll
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\ref\gradeEqualent - branching.dll
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\gradeEqualent - branching.pdb
+G:\dotnet\Console application\gradeEqualent - branching\obj\Debug\net5.0\gradeEqualent - branching.genruntimeconfig.cache

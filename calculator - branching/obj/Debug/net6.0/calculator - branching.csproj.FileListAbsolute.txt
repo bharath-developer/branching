@@ -1,0 +1,15 @@
+G:\dotnet\Console application\calculator - branching\bin\Debug\net6.0\calculator - branching.exe
+G:\dotnet\Console application\calculator - branching\bin\Debug\net6.0\calculator - branching.deps.json
+G:\dotnet\Console application\calculator - branching\bin\Debug\net6.0\calculator - branching.runtimeconfig.json
+G:\dotnet\Console application\calculator - branching\bin\Debug\net6.0\calculator - branching.dll
+G:\dotnet\Console application\calculator - branching\bin\Debug\net6.0\ref\calculator - branching.dll
+G:\dotnet\Console application\calculator - branching\bin\Debug\net6.0\calculator - branching.pdb
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\calculator - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\calculator - branching.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\calculator - branching.AssemblyInfoInputs.cache
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\calculator - branching.AssemblyInfo.cs
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\calculator - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\calculator - branching.dll
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\ref\calculator - branching.dll
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\calculator - branching.pdb
+G:\dotnet\Console application\calculator - branching\obj\Debug\net6.0\calculator - branching.genruntimeconfig.cache

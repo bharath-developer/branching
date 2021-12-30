@@ -1,0 +1,15 @@
+G:\dotnet\Console application\menu geo - branching\bin\Debug\net6.0\menu geo - branching.exe
+G:\dotnet\Console application\menu geo - branching\bin\Debug\net6.0\menu geo - branching.deps.json
+G:\dotnet\Console application\menu geo - branching\bin\Debug\net6.0\menu geo - branching.runtimeconfig.json
+G:\dotnet\Console application\menu geo - branching\bin\Debug\net6.0\menu geo - branching.dll
+G:\dotnet\Console application\menu geo - branching\bin\Debug\net6.0\ref\menu geo - branching.dll
+G:\dotnet\Console application\menu geo - branching\bin\Debug\net6.0\menu geo - branching.pdb
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\menu geo - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\menu geo - branching.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\menu geo - branching.AssemblyInfoInputs.cache
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\menu geo - branching.AssemblyInfo.cs
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\menu geo - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\menu geo - branching.dll
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\ref\menu geo - branching.dll
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\menu geo - branching.pdb
+G:\dotnet\Console application\menu geo - branching\obj\Debug\net6.0\menu geo - branching.genruntimeconfig.cache

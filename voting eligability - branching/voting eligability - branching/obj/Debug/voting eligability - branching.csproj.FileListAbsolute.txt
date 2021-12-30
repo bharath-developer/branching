@@ -1,0 +1,6 @@
+G:\dotnet\Console application\voting eligability - branching\voting eligability - branching\bin\Debug\voting eligability - branching.exe.config
+G:\dotnet\Console application\voting eligability - branching\voting eligability - branching\bin\Debug\voting eligability - branching.exe
+G:\dotnet\Console application\voting eligability - branching\voting eligability - branching\bin\Debug\voting eligability - branching.pdb
+G:\dotnet\Console application\voting eligability - branching\voting eligability - branching\obj\Debug\voting eligability - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\voting eligability - branching\voting eligability - branching\obj\Debug\voting eligability - branching.exe
+G:\dotnet\Console application\voting eligability - branching\voting eligability - branching\obj\Debug\voting eligability - branching.pdb

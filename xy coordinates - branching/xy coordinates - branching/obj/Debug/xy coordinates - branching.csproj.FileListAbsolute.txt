@@ -1,0 +1,7 @@
+G:\dotnet\Console application\xy coordinates - branching\xy coordinates - branching\bin\Debug\xy coordinates - branching.exe.config
+G:\dotnet\Console application\xy coordinates - branching\xy coordinates - branching\bin\Debug\xy coordinates - branching.exe
+G:\dotnet\Console application\xy coordinates - branching\xy coordinates - branching\bin\Debug\xy coordinates - branching.pdb
+G:\dotnet\Console application\xy coordinates - branching\xy coordinates - branching\obj\Debug\xy coordinates - branching.csproj.AssemblyReference.cache
+G:\dotnet\Console application\xy coordinates - branching\xy coordinates - branching\obj\Debug\xy coordinates - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\xy coordinates - branching\xy coordinates - branching\obj\Debug\xy coordinates - branching.exe
+G:\dotnet\Console application\xy coordinates - branching\xy coordinates - branching\obj\Debug\xy coordinates - branching.pdb

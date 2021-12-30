@@ -1,0 +1,6 @@
+G:\dotnet\Console application\height - branching\height - branching\bin\Debug\height - branching.exe.config
+G:\dotnet\Console application\height - branching\height - branching\bin\Debug\height - branching.exe
+G:\dotnet\Console application\height - branching\height - branching\bin\Debug\height - branching.pdb
+G:\dotnet\Console application\height - branching\height - branching\obj\Debug\height - branching.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\height - branching\height - branching\obj\Debug\height - branching.exe
+G:\dotnet\Console application\height - branching\height - branching\obj\Debug\height - branching.pdb
